@@ -1,6 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
+  "description": "This is a command-line application that allows users to quickly and easily generate a README that is tailored to their project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +12,12 @@
     "inquirer": "^6.5.2"
   },
   "devDependencies": {},
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teojin02/README-GENERATOR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Teojin02/README-GENERATOR/issues"
+  },
+  "homepage": "https://github.com/Teojin02/README-GENERATOR#readme"
 }
